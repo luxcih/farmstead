@@ -20,7 +20,7 @@ shape = SubResource("RectangleShape2D_player")
 script = ExtResource("2_visual")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Visual"]
-position = Vector2(0, -40)
+position = Vector2(0, -34)
 texture_filter = 1
 sprite_frames = ExtResource("3_frames")
 
